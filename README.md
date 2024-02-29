@@ -41,7 +41,7 @@
 ## 📡 Связаться со мной
 <div align="center">
 
-<a href="t.me/phillharmonia" target="_blank">
+<a href="https://t.me/phillharmonia" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:phillharmonia@gmail.com" target="_blank">
