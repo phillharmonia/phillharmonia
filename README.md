@@ -56,5 +56,5 @@
 
 ## ⚡ Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillharmonia&theme=dark&layout=compact&hide_border=true&bg_color=00000000"></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=phillharmonia&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" /></div>
 <br/>  
